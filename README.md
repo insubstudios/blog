@@ -3,4 +3,4 @@ work log, change log, blog.
 
 ----
 
-a jekyll blog for insubstudios.
+a jekyll blog for [insubstudios](http://insubstudios.com).
