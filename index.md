@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: default
 ---
-
-# TITLE
 
 <div class="blog-index">  
   {% assign post = site.posts.first %}
